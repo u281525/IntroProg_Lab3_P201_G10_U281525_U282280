@@ -1,6 +1,6 @@
 """
 Connecta 4 — Plantilla per al Laboratori 2 (Introducció a la Programació)
-
+x
 Entrega:
 - Un únic fitxer Python: PNNN_TNN_P3_U1_U2.py
 - Ha d'executar-se localment amb: `python PNNN_TNN_P2_U1_U2.py`
